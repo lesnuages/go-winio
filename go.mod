@@ -1,4 +1,4 @@
-module github.com/Microsoft/go-winio
+module github.com/lesnuages/go-winio
 
 replace github.com/Microsoft/go-winio => github.com/lesnuages/go-winio v0.4.18
 
