@@ -1,6 +1,6 @@
 module github.com/Microsoft/go-winio
 
-replace github.com/Microsoft/go-winio => github.com/lesnuages/go-winio v0.4.17
+replace github.com/Microsoft/go-winio => github.com/lesnuages/go-winio v0.4.18
 
 go 1.12
 
